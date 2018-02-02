@@ -4,8 +4,8 @@
     <!-- <survey :survey="survey"></survey> -->
     <!-- If you want to show survey editor, uncomment the line below -->
     <!-- <survey-editor></survey-editor> -->
+    <img src="./assets/logo.png" width="30" height="30">
     <survey-editor></survey-editor>
-    <img src="./assets/logo.png">
   </div>
 </template>
 
